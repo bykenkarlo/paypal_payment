@@ -1,0 +1,1438 @@
+a:2:{s:6:"expire";i:1580131310;s:7:"headers";a:0:{}}ENDCI---><!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Articles - KenKarlo.com</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="A global media blog focusing in blockchain, technology, games, smartphones, graphic designs, digital marketing and security around the internet.">
+<meta name="theme-color" content="#000" />
+
+<!-- Open Graph data -->
+<meta property="fb:app_id" content="576747789395855" />
+<meta property="og:title" content="Blog - KenKarlo.com" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost/kenkarlo/blog" />
+<meta property="og:image" content="http://localhost/kenkarlo/assets/images/home_slider_2.png" />
+<meta property="og:description" content="A global media blog focusing in blockchain, technology, games, smartphones, graphic designs, digital marketing and security." />
+<meta property="og:image:alt" content="A global media blog focusing in blockchain, technology, games, smartphones, graphic designs, digital marketing and security." />
+
+<!-- Links -->
+<link rel="canonical" href="http://localhost/kenkarlo/blog/">
+<link rel="shortcut icon" href="http://localhost/kenkarlo/assets/images/kenkarlodotcom.png">
+<link rel="apple-touch-icon" sizes="144x144" type="image/x-icon" href="http://localhost/kenkarlo/assets/images/kenkarlodotcom.png">
+<link rel="stylesheet" type="text/css" href="http://localhost/kenkarlo//assets/styles/bootstrap4/bootstrap.min.css">
+<link href="http://localhost/kenkarlo//assets/plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://localhost/kenkarlo//assets/styles/contact.css">
+<link rel="stylesheet" type="text/css" href="http://localhost/kenkarlo//assets/styles/contact_responsive.css">
+<link rel="stylesheet" type="text/css" href="http://localhost/kenkarlo//assets/styles/kenkarlo.css">
+
+<!-- Scripts -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.28.4/dist/sweetalert2.all.min.js"></script> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script async src="https://cdn.ampproject.org/v0.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-100578871-3"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-100578871-3');
+</script>
+
+<style type="text/css">
+  @media only screen and (max-width: 569px) {
+    #mobile-view {
+      display: block;
+    }
+    #web-view {
+      display: none;
+    }
+    .home {
+      margin-top: 10px;
+      margin-bottom: 30px;
+    }
+  }
+
+  @media only screen and (min-width: 570px) {
+    #mobile-view {
+      display: none;
+    }
+    #web-view{
+      display: block;
+    }
+  }
+  .article-title-txt:hover {
+    color: #0775ea !important;
+  } 
+</style>
+<script type='application/ld+json'>
+{
+  "@context":"https:\/\/schema.org",
+  "@type":"Organization",
+  "url":"https:\/\/kenkarlo.com\/",
+  "sameAs":["https:\/\/www.facebook.com\/kensdigest","https:\/\/twitter.com\/kensdigest"],
+  "@id":"http://localhost/kenkarlo/#Organization",
+  "name":"Ken Karlo",
+}
+</script>
+</head>
+<body>
+
+
+
+
+<div class="super_container">
+  <!-- Home Featured Article -->
+  <div id="web-view" class="home-article-main">
+        <div class="home_container_main">
+            <div class="text-bg-article-main"></div>
+            <amp-img width="800" height="500" layout="responsive" class="home_background_main" src="http://localhost/kenkarlo/assets/images/article/Aerum.jpg"></amp-img>
+      <div class="home_content_container_main" style="color: #fff;">
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              <div class="home_content_article">
+                <div class="breadcrumbs">
+                  <!-- Articlce Category -->
+                                                                  <span class="text-uppercase featured-tag-article-main font-white font-300 margin-bottom-10" onclick="window.location.href='http://localhost/kenkarlo/category/press-release'" style="font-size: 10px;">
+                                Press Release                              </span>
+                                                            </div>
+
+                                <!-- Article Title -->
+                                <a target="_blank" rel="noopener" href="http://localhost/kenkarlo/articles/xcrypt-future-proof-crypto-exchange-taking-ieo-21"><h1 class="font-white font-500" style="font-family: MyFont Medium Sans, Poppins ,sans-serif; font-size: 48px; text-shadow: rgba(0,0,0,.5) 0 2px 8px;">The First IEO Pre-Sales for EST at IDAX International Exchange</h1></a>
+
+                                    <!-- Articlce Dates -->
+                                <div style="font-size: 10.5px;" class="margin-top-10">
+                                     <!-- Updated -->
+                                        <span class="font-500">Published</span> <span class="font-400">12:12 AM UTC+8, 15 Jun 2019</span>
+                                                                    </div>
+
+                                <div class="margin-top-10 ">
+                                                                    <h5 class="font-400 italized-word" style="color: #e0e0e0;">The implementation of Segwit proposed as a means of scaling bitcoin...</h5>
+                                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+      </div>
+
+
+  <div id="mobile-view" class="home-article-blog-mob">
+        <div class="home_container_main">
+            <div class="text-bg-article-main-mob"></div>
+            <amp-img width="800" height="500" layout="responsive" class="home_background_main" src="http://localhost/kenkarlo/assets/images/article/blockchain-3750157_1280.jpg"></amp-img>
+      <div class="home_content_container_main_mob" style="color: #fff;">
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              <div class="home_content_article">
+                <div class="breadcrumbs">
+                  <!-- Articlce Category -->
+                                    <span style="margin-bottom: 5px;"><a class="text-capitalize featured-tag-article-main-mob font-white font-400 " href="http://localhost/kenkarlo/category/localbitcoins">localbitcoins</a>  </span> &nbsp;&nbsp;<br>
+                                </div>
+
+                                <!-- Article Title -->
+                                <a target="_blank" rel="noopener" href="http://localhost/kenkarlo/articles/localbitcoins-alternatives">
+                                  <h1 class="font-white font-500" style="font-family: MyFont Medium Sans, Poppins ,sans-serif; font-size: 28px; text-shadow: rgba(0,0,0,.4) 0 1.4px;">Localbitcoins Alternatives</h1>
+                                </a>
+
+                                    <!-- Articlce Dates -->
+                                <div style="font-size: 10.5px;" class="margin-top-10">
+                                     <!-- Updated -->
+                                        <span class="font-500"></span> <span class="font-400">01:41 AM UTC+8, 05 Oct 2019</span>
+                                                                    </div>
+
+                                <div class="margin-top-10 ">
+                                                                    <h5 class="font-400 italized-word" style="color: #c4c4c4;">LocalBitcoins is the world’s leading peer to peer Bitcoin exchang...</h5>
+                                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+      </div>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header_container">
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <div class="header_content d-flex flex-row align-items-center justify-content-start">
+              <div class="logo"><a href="http://localhost/kenkarlo/"><amp-img width="157" height="40" src="http://localhost/kenkarlo/assets/images/kenkarlodotcom-logo.png" alt="Logo"></amp-img></a>
+              </div>
+              <nav class="main_nav text-right">
+                <ul>
+                  <li class="">
+                    <a href="http://localhost/kenkarlo/">Home</a>
+                  </li>
+                  <li><a href="http://localhost/kenkarlo/category/technology">Tech</a></li>
+                  <li><a href="http://localhost/kenkarlo/category/how-to">How To</a></li>
+                  <li><a href="http://localhost/kenkarlo/category/digital-marketing">Digital Marketing</a></li>
+                  <li><a href="http://localhost/kenkarlo/category/press-release">Press Release</a></li>
+                  <li><a href="http://localhost/kenkarlo/category/blockchain">Blockchain</a></li>
+                  <li><a href="http://localhost/kenkarlo/guest-post" >Write for us</a></li>
+                                                      
+
+                </ul>
+              </nav>
+              <div class="header_extra ml-auto">
+                <div class="search">
+                  <div class="search_icon">
+                    <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                    viewBox="0 0 475.084 475.084" style="enable-background:new 0 0 475.084 475.084;"
+                     xml:space="preserve">
+                    <g>
+                      <path d="M464.524,412.846l-97.929-97.925c23.6-34.068,35.406-72.047,35.406-113.917c0-27.218-5.284-53.249-15.852-78.087
+                        c-10.561-24.842-24.838-46.254-42.825-64.241c-17.987-17.987-39.396-32.264-64.233-42.826
+                        C254.246,5.285,228.217,0.003,200.999,0.003c-27.216,0-53.247,5.282-78.085,15.847C98.072,26.412,76.66,40.689,58.673,58.676
+                        c-17.989,17.987-32.264,39.403-42.827,64.241C5.282,147.758,0,173.786,0,201.004c0,27.216,5.282,53.238,15.846,78.083
+                        c10.562,24.838,24.838,46.247,42.827,64.234c17.987,17.993,39.403,32.264,64.241,42.832c24.841,10.563,50.869,15.844,78.085,15.844
+                        c41.879,0,79.852-11.807,113.922-35.405l97.929,97.641c6.852,7.231,15.406,10.849,25.693,10.849
+                        c9.897,0,18.467-3.617,25.694-10.849c7.23-7.23,10.848-15.796,10.848-25.693C475.088,428.458,471.567,419.889,464.524,412.846z
+                         M291.363,291.358c-25.029,25.033-55.148,37.549-90.364,37.549c-35.21,0-65.329-12.519-90.36-37.549
+                        c-25.031-25.029-37.546-55.144-37.546-90.36c0-35.21,12.518-65.334,37.546-90.36c25.026-25.032,55.15-37.546,90.36-37.546
+                        c35.212,0,65.331,12.519,90.364,37.546c25.033,25.026,37.548,55.15,37.548,90.36C328.911,236.214,316.392,266.329,291.363,291.358z
+                        "/>
+                    </g>
+                  </svg>
+                  </div>
+                </div>
+                <div class="hamburger"><i class="fa fa-bars" aria-hidden="true"></i></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Search Panel -->
+    <div class="search_panel trans_300">
+      <div class="container">
+        <div class="row">
+          <div class="col margin-top-10">
+            <div class="search_panel_content d-flex flex-row align-items-center justify-content-end">
+              <form action="http://localhost/kenkarlo/search/" method="GET">
+                <input type="text" name="keyword" class="form-control" placeholder="Search..." required="">
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Social -->
+    <div class="header_social">
+      <ul>
+        <li><a href="https://facebook.com/kensdigest"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+        <li><a href="https://twitter.com/kensdigest"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        <li><a href="https://pinterest.com/kensdigest"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+      </ul>
+    </div>
+  </header>
+</div>
+  <!-- Menu -->
+  <div class="menu menu_mm trans_300">
+    <div class="menu_container menu_mm">
+      <div class="page_menu_content">
+        <div class="page_menu_search "> <!-- Search -->
+          <form action="http://localhost/kenkarlo/search" method="GET">
+            <input type="text" class="page_menu_search_input menu_mm" name="keyword" class="form-control" placeholder="Search for..." required="">
+          </form>
+        </div>
+        <ul class="page_menu_nav menu_mm">
+          <li class="page_menu_item  menu_mm">
+            <a href="http://localhost/kenkarlo/">Home</a>
+          </li>
+          <li class="page_menu_item menu_mm"><a href="http://localhost/kenkarlo/category/technology">Tech</a></li>
+          <li class="page_menu_item menu_mm"><a href="http://localhost/kenkarlo/category/how-to">How To</a></li>
+          <li class="page_menu_item menu_mm"><a href="http://localhost/kenkarlo/category/press-release">Press Release</a></li>
+          <li class="page_menu_item menu_mm"><a href="http://localhost/kenkarlo/category/blockchain">Blockchain</a></li>
+          <li class="page_menu_item menu_mm"><a href="http://localhost/kenkarlo/category/gadgets">Gadgets</a></li>
+          <li class="page_menu_item menu_mm"><a href="http://localhost/kenkarlo/guest-post" >Write for us</a></li>
+                      <li class="page_menu_item menu_mm"><a href="http://localhost/kenkarlo/bc-login/account">Account</a></li>
+                  </ul>
+      </div>
+    </div>
+    <div class="menu_close"><i class="fa fa-times" aria-hidden="true"></i></div>
+    <div class="menu_social">
+      <ul>
+        <li><a href="https://facebook.com/kensdigest"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+        <li><a href="https://twitter.com/kensdigest"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        <li><a href="https://pinterest.com/kensdigest"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+      </ul>
+    </div>
+  </div>
+  
+  
+</div>
+
+  <div class="container text-center"> <!-- Ads -->
+    <div class=""> <!-- Ads -->
+    <div class="margin-top-10 text-center">
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+          <ins class="adsbygoogle"
+              style="display:block;width:100%;height:120px"
+              data-ad-client="ca-pub-9264139322313019"
+              data-ad-slot="7570258685">
+          </ins>
+      <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+        <small>Advertisement</small>
+    </div>
+  </div> <!-- End Ads -->
+    <!-- Ads -->
+    <!-- <div id="mobile-view">
+              <div class="margin-top-20 margin-bottom-20  " > 
+              <div class="margin-bottom-10">
+                <a target="_blank" rel="noopener nofollow" href="https://brave.com?utm_source=kenkarlo.com?utm_medium=sidebar_banner">
+                  <amp-img alt="Brave Browser" width="336" height="280" layout="responsive" src="http://localhost/kenkarlo/assets/images/campaign/banner336x280-brave-browser.jpg"></amp-img>
+                  <div class="row" >
+                    <div class="col-md-6 col-6 font-ad-text text-left">brave.com</div>
+                    <div class="col-md-6 col-6 font-ad-text text-uppercase text-right"><span class="btn btn-xs btn-learn-more">Learn More</span></div>
+                  </div>
+                </a>
+              </div>
+            </div>
+                </div> -->
+  </div> <!-- End Ads -->
+
+  <div class="container margin-top-10 margin-bottom-50">
+    <div class="row">
+      <div class="col-md-8 col-xs-12 col-sm-8 margin-bottom-40">
+        <h4 class="text-uppercase font-black font-500 title-bold"><span>Latest Stories</span></h4>
+
+                  <div id="mobile-view" class="margin-top-30 margin-bottom-20">
+                              <div class="sponsored-style">
+                <img draggable="false" style="width: 20px; " src="http://localhost/kenkarlo/assets/images/campaign/fiverr-logo.png" alt="Fiverr" />&nbsp;<span class="font-600">Fiverr</span> - Top quality, hand-picked professionals, trusted by the world’s biggest brands. <a title="Links to External Site" class="font-500" target="_blank" rel="noopener" href="http://localhost/kenkarlo/sponsored/fiverr">Visit Fiverr</a>. <sup title="Sponsored Ad" class="ad-style">Ad </sup>
+              </div>
+                      </div>
+                
+
+        <div id="web-view">
+                      <div class="margin-top-10">
+                    <div class="row">
+                      <div class="col-md-4 col-12 col-sm-3 margin-bottom-10" style="margin-top: 17px;">
+                        <div class="article-list-bg"></div>
+                        <a class="image-hover img-zoom-in image-latest-article" href="http://localhost/kenkarlo/articles/how-ai-will-revolutionalize-digital-marketing">
+                          <img class="img-fluid mx-auto d-block" src="http://localhost/kenkarlo/assets/images/article/how-ai-will-change-digital-marketing-for-2019-and-upcoming-years.jpg" alt="How AI Will Revolutionalize Digital Marketing - Kenkarlo.com">
+                        </a>
+                        
+                      </div>
+                      <div class="col-md-8 col-12 col-sm-9">
+                        <div class="margin-top-15 margin-bottom-10 ">                 
+                                                      
+                            <span class="text-uppercase article-tag" onclick="window.location.href='http://localhost/kenkarlo/category/press-release'">Press Release</span>
+                                                                                <h3 title="How AI Will Revolutionalize Digital Marketing" id="aTitle" onclick="window.location='http://localhost/kenkarlo/articles/how-ai-will-revolutionalize-digital-marketing'" class="font--title article-title-txt margin-top-5" >How AI Will Revolutionalize Digital Marketing</h3>
+                          
+
+                          <div class="font-500 margin-bottom-10 main-date--author" style="margin-top: 5px;">
+                              <a class="text-uppercase"href="http://localhost/kenkarlo/author/rulezero">
+                                 <img class="author-image--profile-with-article" src="http://localhost/kenkarlo/assets/images/author/519247-bl4nk.png">
+                                 Rule Zero                                </a>•
+                              <span><i class="fas fa-clock"></i> Oct 12</span> • 
+                              <span style="" class="font-400">1 min read</span>
+                          </div>
+
+                        </div>
+                        <div class="font--black main-short--description">
+                           Digital marketing has over the years, become a staple for many brands and c...
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                      <div class="margin-top-10">
+                    <div class="row">
+                      <div class="col-md-4 col-12 col-sm-3 margin-bottom-10" style="margin-top: 17px;">
+                        <div class="article-list-bg"></div>
+                        <a class="image-hover img-zoom-in image-latest-article" href="http://localhost/kenkarlo/articles/localbitcoins-alternatives">
+                          <img class="img-fluid mx-auto d-block" src="http://localhost/kenkarlo/assets/images/article/blockchain-3750157_1280.jpg" alt="Localbitcoins Alternatives - Kenkarlo.com">
+                        </a>
+                        
+                      </div>
+                      <div class="col-md-8 col-12 col-sm-9">
+                        <div class="margin-top-15 margin-bottom-10 ">                 
+                                                      
+                            <span class="text-uppercase article-tag" onclick="window.location.href='http://localhost/kenkarlo/category/press-release'">Press Release</span>
+                                                                                <h3 title="Localbitcoins Alternatives" id="aTitle" onclick="window.location='http://localhost/kenkarlo/articles/localbitcoins-alternatives'" class="font--title article-title-txt margin-top-5" >Localbitcoins Alternatives</h3>
+                          
+
+                          <div class="font-500 margin-bottom-10 main-date--author" style="margin-top: 5px;">
+                              <a class="text-uppercase"href="http://localhost/kenkarlo/author/blankcodethegreat">
+                                 <img class="author-image--profile-with-article" src="http://localhost/kenkarlo/assets/images/author/850304-giana-tiger-a-millionaire-teenager.png">
+                                 Blank Code The Great                                </a>•
+                              <span><i class="fas fa-clock"></i> Oct 05</span> • 
+                              <span style="" class="font-400">1 min read</span>
+                          </div>
+
+                        </div>
+                        <div class="font--black main-short--description">
+                           LocalBitcoins is the world’s leading peer to peer Bitcoin exchange...
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                      <div class="margin-top-10">
+                    <div class="row">
+                      <div class="col-md-4 col-12 col-sm-3 margin-bottom-10" style="margin-top: 17px;">
+                        <div class="article-list-bg"></div>
+                        <a class="image-hover img-zoom-in image-latest-article" href="http://localhost/kenkarlo/articles/learning-seo-or-search-engine-optimization">
+                          <img class="img-fluid mx-auto d-block" src="http://localhost/kenkarlo/assets/images/article/learn-seo-at-home-beginners-guide.jpg" alt="How to Learn SEO at Home — Beginner's guides - Kenkarlo.com">
+                        </a>
+                        
+                      </div>
+                      <div class="col-md-8 col-12 col-sm-9">
+                        <div class="margin-top-15 margin-bottom-10 ">                 
+                                                      
+                            <span class="text-uppercase article-tag" onclick="window.location.href='http://localhost/kenkarlo/category/seo'">SEO</span>
+                                                                                <h3 title="How to Learn SEO at Home — Beginner's guides" id="aTitle" onclick="window.location='http://localhost/kenkarlo/articles/learning-seo-or-search-engine-optimization'" class="font--title article-title-txt margin-top-5" >How to Learn SEO at Home — Beginner's guides</h3>
+                          
+
+                          <div class="font-500 margin-bottom-10 main-date--author" style="margin-top: 5px;">
+                              <a class="text-uppercase"href="http://localhost/kenkarlo/author/kenkarlo">
+                                 <img class="author-image--profile-with-article" src="http://localhost/kenkarlo/assets/images/author/929912-ken.jpg">
+                                 Ken Karlo                                </a>•
+                              <span><i class="fas fa-clock"></i> Jul 31</span> • 
+                              <span style="" class="font-400">3 min read</span>
+                          </div>
+
+                        </div>
+                        <div class="font--black main-short--description">
+                           Learning SEO or Search Engine Optimization may seem like a complicated issu...
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                      <div class="margin-top-10">
+                    <div class="row">
+                      <div class="col-md-4 col-12 col-sm-3 margin-bottom-10" style="margin-top: 17px;">
+                        <div class="article-list-bg"></div>
+                        <a class="image-hover img-zoom-in image-latest-article" href="http://localhost/kenkarlo/articles/79515720-the-mpcx-platform-presents-the-digital-wealth-management-platform">
+                          <img class="img-fluid mx-auto d-block" src="http://localhost/kenkarlo/assets/images/article/mcpx.png" alt="The MPCX Platform presents the digital wealth management platform - Kenkarlo.com">
+                        </a>
+                        
+                      </div>
+                      <div class="col-md-8 col-12 col-sm-9">
+                        <div class="margin-top-15 margin-bottom-10 ">                 
+                                                      
+                            <span class="text-uppercase article-tag" onclick="window.location.href='http://localhost/kenkarlo/category/press-release'">Press Release</span>
+                                                                              <h3 title="The MPCX Platform presents the digital wealth management platform" id="aTitle" onclick="window.location='http://localhost/kenkarlo/articles/79515720-the-mpcx-platform-presents-the-digital-wealth-management-platform'" class="font--title article-title-txt margin-top-5" style="">The MPCX Platform presents the digital wealth managemen...</h3>
+                          
+
+                          <div class="font-500 margin-bottom-10 main-date--author" style="margin-top: 5px;">
+                              <a class="text-uppercase"href="http://localhost/kenkarlo/author/rulezero">
+                                 <img class="author-image--profile-with-article" src="http://localhost/kenkarlo/assets/images/author/519247-bl4nk.png">
+                                 Rule Zero                                </a>•
+                              <span><i class="fas fa-clock"></i> Jun 23</span> • 
+                              <span style="" class="font-400">1 min read</span>
+                          </div>
+
+                        </div>
+                        <div class="font--black main-short--description">
+                           The MPCX Platform presents the digital wealth management platform...
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                      <div class="margin-top-10">
+                    <div class="row">
+                      <div class="col-md-4 col-12 col-sm-3 margin-bottom-10" style="margin-top: 17px;">
+                        <div class="article-list-bg"></div>
+                        <a class="image-hover img-zoom-in image-latest-article" href="http://localhost/kenkarlo/articles/xcrypt-future-proof-crypto-exchange-taking-ieo-21">
+                          <img class="img-fluid mx-auto d-block" src="http://localhost/kenkarlo/assets/images/article/Aerum.jpg" alt="The First IEO Pre-Sales for EST at IDAX International Exchange - Kenkarlo.com">
+                        </a>
+                        
+                      </div>
+                      <div class="col-md-8 col-12 col-sm-9">
+                        <div class="margin-top-15 margin-bottom-10 ">                 
+                                                      
+                            <span class="text-uppercase article-tag" onclick="window.location.href='http://localhost/kenkarlo/category/press-release'">Press Release</span>
+                                                                              <h3 title="The First IEO Pre-Sales for EST at IDAX International Exchange" id="aTitle" onclick="window.location='http://localhost/kenkarlo/articles/xcrypt-future-proof-crypto-exchange-taking-ieo-21'" class="font--title article-title-txt margin-top-5" style="">The First IEO Pre-Sales for EST at IDAX International E...</h3>
+                          
+
+                          <div class="font-500 margin-bottom-10 main-date--author" style="margin-top: 5px;">
+                              <a class="text-uppercase"href="http://localhost/kenkarlo/author/rulezero">
+                                 <img class="author-image--profile-with-article" src="http://localhost/kenkarlo/assets/images/author/519247-bl4nk.png">
+                                 Rule Zero                                </a>•
+                              <span><i class="fas fa-clock"></i> Jun 15</span> • 
+                              <span style="" class="font-400">0 min read</span>
+                          </div>
+
+                        </div>
+                        <div class="font--black main-short--description">
+                           The implementation of Segwit proposed as a means of scaling bitcoin to meet...
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                      <div class="margin-top-10">
+                    <div class="row">
+                      <div class="col-md-4 col-12 col-sm-3 margin-bottom-10" style="margin-top: 17px;">
+                        <div class="article-list-bg"></div>
+                        <a class="image-hover img-zoom-in image-latest-article" href="http://localhost/kenkarlo/articles/the-ban-on-huawei-and-its-effect">
+                          <img class="img-fluid mx-auto d-block" src="http://localhost/kenkarlo/assets/images/article/10-reasons-why-you-should-choose-laptops-over-desktops.jpg" alt="The Ban On Huawei And It's Effect - Kenkarlo.com">
+                        </a>
+                        
+                      </div>
+                      <div class="col-md-8 col-12 col-sm-9">
+                        <div class="margin-top-15 margin-bottom-10 ">                 
+                                                      
+                            <span class="text-uppercase article-tag" onclick="window.location.href='http://localhost/kenkarlo/category/tech-news'">Tech News</span>
+                                                                                <h3 title="The Ban On Huawei And It's Effect" id="aTitle" onclick="window.location='http://localhost/kenkarlo/articles/the-ban-on-huawei-and-its-effect'" class="font--title article-title-txt margin-top-5" >The Ban On Huawei And It's Effect</h3>
+                          
+
+                          <div class="font-500 margin-bottom-10 main-date--author" style="margin-top: 5px;">
+                              <a class="text-uppercase"href="http://localhost/kenkarlo/author/rulezero">
+                                 <img class="author-image--profile-with-article" src="http://localhost/kenkarlo/assets/images/author/519247-bl4nk.png">
+                                 Rule Zero                                </a>•
+                              <span><i class="fas fa-clock"></i> Jun 14</span> • 
+                              <span style="" class="font-400">2 min read</span>
+                          </div>
+
+                        </div>
+                        <div class="font--black main-short--description">
+                           Buy Steam Wallet using Palawan Pawnshop without any identity verification.....
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                      <div class="margin-top-10">
+                    <div class="row">
+                      <div class="col-md-4 col-12 col-sm-3 margin-bottom-10" style="margin-top: 17px;">
+                        <div class="article-list-bg"></div>
+                        <a class="image-hover img-zoom-in image-latest-article" href="http://localhost/kenkarlo/articles/era-of-revolution-in-digital-marketing">
+                          <img class="img-fluid mx-auto d-block" src="http://localhost/kenkarlo/assets/images/article/era-of-revolution-in-digital-marketing-.jpg" alt="The Era of Revolution in Digital Marketing - Tech News - Kenkarlo.com">
+                        </a>
+                        
+                      </div>
+                      <div class="col-md-8 col-12 col-sm-9">
+                        <div class="margin-top-15 margin-bottom-10 ">                 
+                                                      
+                            <span class="text-uppercase article-tag" onclick="window.location.href='http://localhost/kenkarlo/category/digital-marketing'">Digital Marketing</span>
+                                                                                <h3 title="The Era of Revolution in Digital Marketing - Tech News" id="aTitle" onclick="window.location='http://localhost/kenkarlo/articles/era-of-revolution-in-digital-marketing'" class="font--title article-title-txt margin-top-5" >The Era of Revolution in Digital Marketing - Tech News</h3>
+                          
+
+                          <div class="font-500 margin-bottom-10 main-date--author" style="margin-top: 5px;">
+                              <a class="text-uppercase"href="http://localhost/kenkarlo/author/rulezero">
+                                 <img class="author-image--profile-with-article" src="http://localhost/kenkarlo/assets/images/author/519247-bl4nk.png">
+                                 Rule Zero                                </a>•
+                              <span><i class="fas fa-clock"></i> May 07</span> • 
+                              <span style="" class="font-400">3 min read</span>
+                          </div>
+
+                        </div>
+                        <div class="font--black main-short--description">
+                           Digital marketing presents a colossal chance to engage consumers, but valua...
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                      <div class="margin-top-10">
+                    <div class="row">
+                      <div class="col-md-4 col-12 col-sm-3 margin-bottom-10" style="margin-top: 17px;">
+                        <div class="article-list-bg"></div>
+                        <a class="image-hover img-zoom-in image-latest-article" href="http://localhost/kenkarlo/articles/send-from-gcash-to-paymaya">
+                          <img class="img-fluid mx-auto d-block" src="http://localhost/kenkarlo/assets/images/article/how-to-send-gcash-to-paymaya.jpg" alt="How to send Gcash to Paymaya Account - Kenkarlo.com">
+                        </a>
+                        
+                      </div>
+                      <div class="col-md-8 col-12 col-sm-9">
+                        <div class="margin-top-15 margin-bottom-10 ">                 
+                                                        <span class="text-uppercase article-tag" onclick="window.location.href='http://localhost/kenkarlo/category/finance'">finance</span>
+                                                                                <h3 title="How to send Gcash to Paymaya Account" id="aTitle" onclick="window.location='http://localhost/kenkarlo/articles/send-from-gcash-to-paymaya'" class="font--title article-title-txt margin-top-5" >How to send Gcash to Paymaya Account</h3>
+                          
+
+                          <div class="font-500 margin-bottom-10 main-date--author" style="margin-top: 5px;">
+                              <a class="text-uppercase"href="http://localhost/kenkarlo/author/rulezero">
+                                 <img class="author-image--profile-with-article" src="http://localhost/kenkarlo/assets/images/author/519247-bl4nk.png">
+                                 Rule Zero                                </a>•
+                              <span><i class="fas fa-clock"></i> May 02</span> • 
+                              <span style="" class="font-400">2 min read</span>
+                          </div>
+
+                        </div>
+                        <div class="font--black main-short--description">
+                           How to send Gcash to your Paymaya Account using Gcash App...Gcash app can l...
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                      <div class="margin-top-10">
+                    <div class="row">
+                      <div class="col-md-4 col-12 col-sm-3 margin-bottom-10" style="margin-top: 17px;">
+                        <div class="article-list-bg"></div>
+                        <a class="image-hover img-zoom-in image-latest-article" href="http://localhost/kenkarlo/articles/iot-the-future-of-taxi-transportation">
+                          <img class="img-fluid mx-auto d-block" src="http://localhost/kenkarlo/assets/images/article/iot-the-future-of-taxi-transportation-uber.jpg" alt="How IoT will Impact the Future of On-Demand Domestic Taxi Transportation? - Kenkarlo.com">
+                        </a>
+                        
+                      </div>
+                      <div class="col-md-8 col-12 col-sm-9">
+                        <div class="margin-top-15 margin-bottom-10 ">                 
+                                                        <span class="text-uppercase article-tag" onclick="window.location.href='http://localhost/kenkarlo/category/technology'">technology</span>
+                                                                              <h3 title="How IoT will Impact the Future of On-Demand Domestic Taxi Transportation?" id="aTitle" onclick="window.location='http://localhost/kenkarlo/articles/iot-the-future-of-taxi-transportation'" class="font--title article-title-txt margin-top-5" style="">How IoT will Impact the Future of On-Demand Domestic Ta...</h3>
+                          
+
+                          <div class="font-500 margin-bottom-10 main-date--author" style="margin-top: 5px;">
+                              <a class="text-uppercase"href="http://localhost/kenkarlo/author/kenkarlo">
+                                 <img class="author-image--profile-with-article" src="http://localhost/kenkarlo/assets/images/author/929912-ken.jpg">
+                                 Ken Karlo                                </a>•
+                              <span><i class="fas fa-clock"></i> Apr 30</span> • 
+                              <span style="" class="font-400">3 min read</span>
+                          </div>
+
+                        </div>
+                        <div class="font--black main-short--description">
+                           IoT with the taxi industry?, IoT for entrepreneurs, IoT connects all the th...
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                      <div class="margin-top-10">
+                    <div class="row">
+                      <div class="col-md-4 col-12 col-sm-3 margin-bottom-10" style="margin-top: 17px;">
+                        <div class="article-list-bg"></div>
+                        <a class="image-hover img-zoom-in image-latest-article" href="http://localhost/kenkarlo/articles/western-union-partners-coins-ph-for-philippines-remittances">
+                          <img class="img-fluid mx-auto d-block" src="http://localhost/kenkarlo/assets/images/article/western-union-business-payments.jpg" alt="Western Union Partners with Blockchain-Enabled Platform for Philippines' Remittances - Kenkarlo.com">
+                        </a>
+                        
+                      </div>
+                      <div class="col-md-8 col-12 col-sm-9">
+                        <div class="margin-top-15 margin-bottom-10 ">                 
+                                                      
+                            <span class="text-uppercase article-tag" onclick="window.location.href='http://localhost/kenkarlo/category/press-release'">Press Release</span>
+                                                                              <h3 title="Western Union Partners with Blockchain-Enabled Platform for Philippines' Remittances" id="aTitle" onclick="window.location='http://localhost/kenkarlo/articles/western-union-partners-coins-ph-for-philippines-remittances'" class="font--title article-title-txt margin-top-5" style="">Western Union Partners with Blockchain-Enabled Platform...</h3>
+                          
+
+                          <div class="font-500 margin-bottom-10 main-date--author" style="margin-top: 5px;">
+                              <a class="text-uppercase"href="http://localhost/kenkarlo/author/kenkarlo">
+                                 <img class="author-image--profile-with-article" src="http://localhost/kenkarlo/assets/images/author/929912-ken.jpg">
+                                 Ken Karlo                                </a>•
+                              <span><i class="fas fa-clock"></i> Apr 10</span> • 
+                              <span style="" class="font-400">2 min read</span>
+                          </div>
+
+                        </div>
+                        <div class="font--black main-short--description">
+                            Coins.ph and Western Union announced a collaboration to enable Filipinos...
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  </div>
+
+        <div id="mobile-view">
+                    <div class="">
+                      <div class="margin-bottom-30 cursor-pointer">
+                        <div id="featured-style" class="img-overlay img-scale-animate" onclick="window.location.href='http://localhost/kenkarlo/articles/how-ai-will-revolutionalize-digital-marketing'">
+                          <div class="text-bg" ></div>
+                          <amp-img layout="responsive" width="800" height="500"  src="http://localhost/kenkarlo/assets/images/article/how-ai-will-change-digital-marketing-for-2019-and-upcoming-years.jpg" alt="How AI Will Revolutionalize Digital Marketing - Kenkarlo.com"></amp-img>
+                          <div class="bottom-left" style="padding: 2px; z-index: 5;">
+                                                          <div class="margin-bottom-5">
+                              <a class="text-capitalize category-article-wrapper font-white font-400" href="http://localhost/kenkarlo/category/artificial-intelligence">artificial intelligence</a>  
+                            </div> 
+                            <h2 onclick="window.location.href='http://localhost/kenkarlo/articles/how-ai-will-revolutionalize-digital-marketing'" style="color: #fff; cursor: pointer; font-size: 18px; " class="font-400">How AI Will Revolutionalize Digital Marketing                            </h2>
+                            <div class="font-300 margin-bottom-10" style="letter-spacing: .9px; font-size: 12px; color: #fff; margin-top: -5px;">
+                              <span>Oct 12</span> • 
+                                <span style="" class="font-300">1 min read</span> •
+                              <span>by </span>
+                                <a class="text-capitalize" style="color: #fff !important; " href="http://localhost/kenkarlo/author/rulezero">Rule Zero                                </a>
+                          </div>
+                        </div>
+                      </div>
+                   </div>  
+                </div>  
+                      <div class="">
+                      <div class="margin-bottom-30 cursor-pointer">
+                        <div id="featured-style" class="img-overlay img-scale-animate" onclick="window.location.href='http://localhost/kenkarlo/articles/localbitcoins-alternatives'">
+                          <div class="text-bg" ></div>
+                          <amp-img layout="responsive" width="800" height="500"  src="http://localhost/kenkarlo/assets/images/article/blockchain-3750157_1280.jpg" alt="Localbitcoins Alternatives - Kenkarlo.com"></amp-img>
+                          <div class="bottom-left" style="padding: 2px; z-index: 5;">
+                                                          <div class="margin-bottom-5">
+                              <a class="text-capitalize category-article-wrapper font-white font-400" href="http://localhost/kenkarlo/category/localbitcoins">localbitcoins</a>  
+                            </div> 
+                            <h2 onclick="window.location.href='http://localhost/kenkarlo/articles/localbitcoins-alternatives'" style="color: #fff; cursor: pointer; font-size: 18px; " class="font-400">Localbitcoins Alternatives                            </h2>
+                            <div class="font-300 margin-bottom-10" style="letter-spacing: .9px; font-size: 12px; color: #fff; margin-top: -5px;">
+                              <span>Oct 05</span> • 
+                                <span style="" class="font-300">1 min read</span> •
+                              <span>by </span>
+                                <a class="text-capitalize" style="color: #fff !important; " href="http://localhost/kenkarlo/author/blankcodethegreat">Blank Code The Great                                </a>
+                          </div>
+                        </div>
+                      </div>
+                   </div>  
+                </div>  
+                      <div class="">
+                      <div class="margin-bottom-30 cursor-pointer">
+                        <div id="featured-style" class="img-overlay img-scale-animate" onclick="window.location.href='http://localhost/kenkarlo/articles/learning-seo-or-search-engine-optimization'">
+                          <div class="text-bg" ></div>
+                          <amp-img layout="responsive" width="800" height="500"  src="http://localhost/kenkarlo/assets/images/article/learn-seo-at-home-beginners-guide.jpg" alt="How to Learn SEO at Home — Beginner's guides - Kenkarlo.com"></amp-img>
+                          <div class="bottom-left" style="padding: 2px; z-index: 5;">
+                                                          <div class="margin-bottom-5">
+                              <a class="text-capitalize category-article-wrapper font-white font-400" href="http://localhost/kenkarlo/category/business">business</a>  
+                            </div> 
+                            <h2 onclick="window.location.href='http://localhost/kenkarlo/articles/learning-seo-or-search-engine-optimization'" style="color: #fff; cursor: pointer; font-size: 18px; " class="font-400">How to Learn SEO at Home — Beginner's guides                            </h2>
+                            <div class="font-300 margin-bottom-10" style="letter-spacing: .9px; font-size: 12px; color: #fff; margin-top: -5px;">
+                              <span>Jul 31</span> • 
+                                <span style="" class="font-300">3 min read</span> •
+                              <span>by </span>
+                                <a class="text-capitalize" style="color: #fff !important; " href="http://localhost/kenkarlo/author/kenkarlo">Ken Karlo                                </a>
+                          </div>
+                        </div>
+                      </div>
+                   </div>  
+                </div>  
+                      <div class="">
+                      <div class="margin-bottom-30 cursor-pointer">
+                        <div id="featured-style" class="img-overlay img-scale-animate" onclick="window.location.href='http://localhost/kenkarlo/articles/79515720-the-mpcx-platform-presents-the-digital-wealth-management-platform'">
+                          <div class="text-bg" ></div>
+                          <amp-img layout="responsive" width="800" height="500"  src="http://localhost/kenkarlo/assets/images/article/mcpx.png" alt="The MPCX Platform presents the digital wealth management platform - Kenkarlo.com"></amp-img>
+                          <div class="bottom-left" style="padding: 2px; z-index: 5;">
+                                                          <div class="margin-bottom-5">
+                              <a class="text-capitalize category-article-wrapper font-white font-400" href="http://localhost/kenkarlo/category/press-release">press release</a>  
+                            </div> 
+                            <h2 onclick="window.location.href='http://localhost/kenkarlo/articles/79515720-the-mpcx-platform-presents-the-digital-wealth-management-platform'" style="color: #fff; cursor: pointer; font-size: 18px; " class="font-400">The MPCX Platform presents the digital wealth management ...                            </h2>
+                            <div class="font-300 margin-bottom-10" style="letter-spacing: .9px; font-size: 12px; color: #fff; margin-top: -5px;">
+                              <span>Jun 23</span> • 
+                                <span style="" class="font-300">1 min read</span> •
+                              <span>by </span>
+                                <a class="text-capitalize" style="color: #fff !important; " href="http://localhost/kenkarlo/author/rulezero">Rule Zero                                </a>
+                          </div>
+                        </div>
+                      </div>
+                   </div>  
+                </div>  
+                      <div class="">
+                      <div class="margin-bottom-30 cursor-pointer">
+                        <div id="featured-style" class="img-overlay img-scale-animate" onclick="window.location.href='http://localhost/kenkarlo/articles/xcrypt-future-proof-crypto-exchange-taking-ieo-21'">
+                          <div class="text-bg" ></div>
+                          <amp-img layout="responsive" width="800" height="500"  src="http://localhost/kenkarlo/assets/images/article/Aerum.jpg" alt="The First IEO Pre-Sales for EST at IDAX International Exchange - Kenkarlo.com"></amp-img>
+                          <div class="bottom-left" style="padding: 2px; z-index: 5;">
+                                                          <div class="margin-bottom-5">
+                              <a class="text-capitalize category-article-wrapper font-white font-400" href="http://localhost/kenkarlo/category/how-to">how to</a>  
+                            </div> 
+                            <h2 onclick="window.location.href='http://localhost/kenkarlo/articles/xcrypt-future-proof-crypto-exchange-taking-ieo-21'" style="color: #fff; cursor: pointer; font-size: 18px; " class="font-400">The First IEO Pre-Sales for EST at IDAX International Exc...                            </h2>
+                            <div class="font-300 margin-bottom-10" style="letter-spacing: .9px; font-size: 12px; color: #fff; margin-top: -5px;">
+                              <span>Jun 15</span> • 
+                                <span style="" class="font-300">0 min read</span> •
+                              <span>by </span>
+                                <a class="text-capitalize" style="color: #fff !important; " href="http://localhost/kenkarlo/author/rulezero">Rule Zero                                </a>
+                          </div>
+                        </div>
+                      </div>
+                   </div>  
+                </div>  
+                      <div class="">
+                      <div class="margin-bottom-30 cursor-pointer">
+                        <div id="featured-style" class="img-overlay img-scale-animate" onclick="window.location.href='http://localhost/kenkarlo/articles/the-ban-on-huawei-and-its-effect'">
+                          <div class="text-bg" ></div>
+                          <amp-img layout="responsive" width="800" height="500"  src="http://localhost/kenkarlo/assets/images/article/10-reasons-why-you-should-choose-laptops-over-desktops.jpg" alt="The Ban On Huawei And It's Effect - Kenkarlo.com"></amp-img>
+                          <div class="bottom-left" style="padding: 2px; z-index: 5;">
+                                                          <div class="margin-bottom-5">
+                              <a class="text-capitalize category-article-wrapper font-white font-400" href="http://localhost/kenkarlo/category/tech-news">tech news</a>  
+                            </div> 
+                            <h2 onclick="window.location.href='http://localhost/kenkarlo/articles/the-ban-on-huawei-and-its-effect'" style="color: #fff; cursor: pointer; font-size: 18px; " class="font-400">The Ban On Huawei And It's Effect                            </h2>
+                            <div class="font-300 margin-bottom-10" style="letter-spacing: .9px; font-size: 12px; color: #fff; margin-top: -5px;">
+                              <span>Jun 14</span> • 
+                                <span style="" class="font-300">2 min read</span> •
+                              <span>by </span>
+                                <a class="text-capitalize" style="color: #fff !important; " href="http://localhost/kenkarlo/author/rulezero">Rule Zero                                </a>
+                          </div>
+                        </div>
+                      </div>
+                   </div>  
+                </div>  
+                      <div class="">
+                      <div class="margin-bottom-30 cursor-pointer">
+                        <div id="featured-style" class="img-overlay img-scale-animate" onclick="window.location.href='http://localhost/kenkarlo/articles/era-of-revolution-in-digital-marketing'">
+                          <div class="text-bg" ></div>
+                          <amp-img layout="responsive" width="800" height="500"  src="http://localhost/kenkarlo/assets/images/article/era-of-revolution-in-digital-marketing-.jpg" alt="The Era of Revolution in Digital Marketing - Tech News - Kenkarlo.com"></amp-img>
+                          <div class="bottom-left" style="padding: 2px; z-index: 5;">
+                                                          <div class="margin-bottom-5">
+                              <a class="text-capitalize category-article-wrapper font-white font-400" href="http://localhost/kenkarlo/category/ph-news">ph news</a>  
+                            </div> 
+                            <h2 onclick="window.location.href='http://localhost/kenkarlo/articles/era-of-revolution-in-digital-marketing'" style="color: #fff; cursor: pointer; font-size: 18px; " class="font-400">The Era of Revolution in Digital Marketing - Tech News                            </h2>
+                            <div class="font-300 margin-bottom-10" style="letter-spacing: .9px; font-size: 12px; color: #fff; margin-top: -5px;">
+                              <span>May 07</span> • 
+                                <span style="" class="font-300">3 min read</span> •
+                              <span>by </span>
+                                <a class="text-capitalize" style="color: #fff !important; " href="http://localhost/kenkarlo/author/rulezero">Rule Zero                                </a>
+                          </div>
+                        </div>
+                      </div>
+                   </div>  
+                </div>  
+                      <div class="">
+                      <div class="margin-bottom-30 cursor-pointer">
+                        <div id="featured-style" class="img-overlay img-scale-animate" onclick="window.location.href='http://localhost/kenkarlo/articles/send-from-gcash-to-paymaya'">
+                          <div class="text-bg" ></div>
+                          <amp-img layout="responsive" width="800" height="500"  src="http://localhost/kenkarlo/assets/images/article/how-to-send-gcash-to-paymaya.jpg" alt="How to send Gcash to Paymaya Account - Kenkarlo.com"></amp-img>
+                          <div class="bottom-left" style="padding: 2px; z-index: 5;">
+                                                          <div class="margin-bottom-5">
+                              <a class="text-capitalize category-article-wrapper font-white font-400" href="http://localhost/kenkarlo/category/finance">finance</a>  
+                            </div> 
+                            <h2 onclick="window.location.href='http://localhost/kenkarlo/articles/send-from-gcash-to-paymaya'" style="color: #fff; cursor: pointer; font-size: 18px; " class="font-400">How to send Gcash to Paymaya Account                            </h2>
+                            <div class="font-300 margin-bottom-10" style="letter-spacing: .9px; font-size: 12px; color: #fff; margin-top: -5px;">
+                              <span>May 02</span> • 
+                                <span style="" class="font-300">2 min read</span> •
+                              <span>by </span>
+                                <a class="text-capitalize" style="color: #fff !important; " href="http://localhost/kenkarlo/author/rulezero">Rule Zero                                </a>
+                          </div>
+                        </div>
+                      </div>
+                   </div>  
+                </div>  
+                      <div class="">
+                      <div class="margin-bottom-30 cursor-pointer">
+                        <div id="featured-style" class="img-overlay img-scale-animate" onclick="window.location.href='http://localhost/kenkarlo/articles/iot-the-future-of-taxi-transportation'">
+                          <div class="text-bg" ></div>
+                          <amp-img layout="responsive" width="800" height="500"  src="http://localhost/kenkarlo/assets/images/article/iot-the-future-of-taxi-transportation-uber.jpg" alt="How IoT will Impact the Future of On-Demand Domestic Taxi Transportation? - Kenkarlo.com"></amp-img>
+                          <div class="bottom-left" style="padding: 2px; z-index: 5;">
+                                                          <div class="margin-bottom-5">
+                              <a class="text-capitalize category-article-wrapper font-white font-400" href="http://localhost/kenkarlo/category/technology">technology</a>  
+                            </div> 
+                            <h2 onclick="window.location.href='http://localhost/kenkarlo/articles/iot-the-future-of-taxi-transportation'" style="color: #fff; cursor: pointer; font-size: 18px; " class="font-400">How IoT will Impact the Future of On-Demand Domestic Taxi...                            </h2>
+                            <div class="font-300 margin-bottom-10" style="letter-spacing: .9px; font-size: 12px; color: #fff; margin-top: -5px;">
+                              <span>Apr 30</span> • 
+                                <span style="" class="font-300">3 min read</span> •
+                              <span>by </span>
+                                <a class="text-capitalize" style="color: #fff !important; " href="http://localhost/kenkarlo/author/kenkarlo">Ken Karlo                                </a>
+                          </div>
+                        </div>
+                      </div>
+                   </div>  
+                </div>  
+                      <div class="">
+                      <div class="margin-bottom-30 cursor-pointer">
+                        <div id="featured-style" class="img-overlay img-scale-animate" onclick="window.location.href='http://localhost/kenkarlo/articles/western-union-partners-coins-ph-for-philippines-remittances'">
+                          <div class="text-bg" ></div>
+                          <amp-img layout="responsive" width="800" height="500"  src="http://localhost/kenkarlo/assets/images/article/western-union-business-payments.jpg" alt="Western Union Partners with Blockchain-Enabled Platform for Philippines' Remittances - Kenkarlo.com"></amp-img>
+                          <div class="bottom-left" style="padding: 2px; z-index: 5;">
+                                                          <div class="margin-bottom-5">
+                              <a class="text-capitalize category-article-wrapper font-white font-400" href="http://localhost/kenkarlo/category/bitcoin-news">bitcoin news</a>  
+                            </div> 
+                            <h2 onclick="window.location.href='http://localhost/kenkarlo/articles/western-union-partners-coins-ph-for-philippines-remittances'" style="color: #fff; cursor: pointer; font-size: 18px; " class="font-400">Western Union Partners with Blockchain-Enabled Platform f...                            </h2>
+                            <div class="font-300 margin-bottom-10" style="letter-spacing: .9px; font-size: 12px; color: #fff; margin-top: -5px;">
+                              <span>Apr 10</span> • 
+                                <span style="" class="font-300">2 min read</span> •
+                              <span>by </span>
+                                <a class="text-capitalize" style="color: #fff !important; " href="http://localhost/kenkarlo/author/kenkarlo">Ken Karlo                                </a>
+                          </div>
+                        </div>
+                      </div>
+                   </div>  
+                </div>  
+                  </div>
+
+        <div style="float: right;" class=" margin-bottom-50 margin-top-10">
+            <ul class="pagination btn-sm"><li class="page-item active"><a class="page-link" href="#">1</a></li><li class="page-item "><a href="http://localhost/kenkarlo/blog/page/2" class="page-link" data-ci-pagination-page="2">2</a></li><li class="page-item "><a href="http://localhost/kenkarlo/blog/page/3" class="page-link" data-ci-pagination-page="3">3</a></li><li class="page-item"><a href="http://localhost/kenkarlo/blog/page/2" class="page-link" data-ci-pagination-page="2" rel="next">Next</a><li class="page-item"><a href="http://localhost/kenkarlo/blog/page/6" class="page-link" data-ci-pagination-page="6">Last &rsaquo;</a></ul>          </div>
+      </div>
+      
+      <div class="col-md-4">
+         <!-- Ads -->
+          <div class="margin-top-10 margin-bottom-40" > 
+            <div class="margin-bottom-10">
+              <a class="image-ad-wrapper" target="_blank" rel="noopener nofollow" href="http://localhost/kenkarlo/sponsored/banner/210418610/brave-browser">
+                <amp-img alt="Brave Browser" width="336" height="280" layout="responsive" src="http://localhost/kenkarlo/assets/images/campaign/banner336x280-brave-browser.jpg"></amp-img>
+                <div class="row" >
+                  <div class="col-md-6 col-6 font-ad-text text-left">
+                    brave.com 
+                    <sup title="Sponsored Ad" class="ad-style">Ad </sup>
+                  </div>
+                  <div class="col-md-6 col-6 font-ad-text text-uppercase text-right"><span class="btn btn-xs btn-learn-more">Learn More</span></div>
+                </div>
+                <script>var bannerCampaignID='210418610'</script>
+              </a>
+            </div>
+          </div>
+         
+
+        <h4 class="text-uppercase font-black font-500 title-bold margin-top-0"><span>Featured Stories</span></h4>
+                          <div class="margin-bottom-20">
+                    <div id="featured-style" class="img-overlay img-scale-animate" onclick="window.location.href='http://localhost/kenkarlo/articles/localbitcoins-alternatives'">
+                      <div class="text-bg" ></div>
+                      <amp-img layout="responsive" width="800" height="500" src="http://localhost/kenkarlo/assets/images/article/blockchain-3750157_1280.jpg" alt="Localbitcoins Alternatives - Kenkarlo.com"></amp-img>
+                      <div class="bottom-left" style="padding: 2px; z-index: 5;">
+                        
+
+                                                  <span class="text-uppercase article-tag" onclick="window.location.href='http://localhost/kenkarlo/category/press-release'" style="font-size: 9px;">
+                          Press Release                        </span> 
+                        
+
+                        <h3 onclick="window.location.href='http://localhost/kenkarlo/articles/localbitcoins-alternatives'" class="main-side--banner-title-featured">Localbitcoins Alternatives</h3>
+                        <div class="text-uppercase font-300" style="letter-spacing: .9px; font-size: 9px;">
+                          <span style="color: #fff !important; ">by </span><a style="color: #fff !important;" href="http://localhost/kenkarlo/author/blankcodethegreat">BLANK CODE THE GREAT</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>  
+                                <div class="margin-bottom-20">
+                    <div id="featured-style" class="img-overlay img-scale-animate" onclick="window.location.href='http://localhost/kenkarlo/articles/79515720-the-mpcx-platform-presents-the-digital-wealth-management-platform'">
+                      <div class="text-bg" ></div>
+                      <amp-img layout="responsive" width="800" height="500" src="http://localhost/kenkarlo/assets/images/article/mcpx.png" alt="The MPCX Platform presents the digital wealth management platform - Kenkarlo.com"></amp-img>
+                      <div class="bottom-left" style="padding: 2px; z-index: 5;">
+                        
+
+                                                  <span class="text-uppercase article-tag" onclick="window.location.href='http://localhost/kenkarlo/category/press-release'" style="font-size: 9px;">
+                          Press Release                        </span> 
+                        
+
+                        <h3 onclick="window.location.href='http://localhost/kenkarlo/articles/79515720-the-mpcx-platform-presents-the-digital-wealth-management-platform'" class="main-side--banner-title-featured">The MPCX Platform presents the digital wealth management platform</h3>
+                        <div class="text-uppercase font-300" style="letter-spacing: .9px; font-size: 9px;">
+                          <span style="color: #fff !important; ">by </span><a style="color: #fff !important;" href="http://localhost/kenkarlo/author/rulezero">RULE ZERO</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>  
+                                  <div class="margin-bottom-10">
+              <div class="row">
+                <div class="col-md-3 col-3 col-sm-3" style="margin-top: 10px;">
+                  <a class="image-hover-ord-article img-zoom-in" href="http://localhost/kenkarlo/articles/the-ban-on-huawei-and-its-effect">
+                    <img class="img-fluid mx-auto d-block" src="http://localhost/kenkarlo/assets/images/article/10-reasons-why-you-should-choose-laptops-over-desktops.jpg" alt="The Ban On Huawei And It's Effect - Kenkarlo.com">
+                  </a>
+                </div>
+                <div class="col-md-9 col-9 col-sm-9">
+                  <div class="margin-top-10 margin-bottom-10">
+                    <h3 style="font-size: 12.5px; font-family: Poppins; margin-top: 5px; cursor: pointer;" onclick="window.location='http://localhost/kenkarlo/articles/the-ban-on-huawei-and-its-effect'" class="font-black font-500">The Ban On Huawei And It's Effect</h3>
+                    <div class="row" style="margin-top: -5px;">
+                      <div class="col" style="font-size: 11px; color: #636363;"><span>Jun 14</span> • <span style="padding-right: 25px; font-size: 10.5px;" class="font-400">2 min read</span>
+                      </div>
+                      
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>  
+                    <div class="margin-bottom-10">
+              <div class="row">
+                <div class="col-md-3 col-3 col-sm-3" style="margin-top: 10px;">
+                  <a class="image-hover-ord-article img-zoom-in" href="http://localhost/kenkarlo/articles/why-you-should-not-use-hitbtc-exchange">
+                    <img class="img-fluid mx-auto d-block" src="http://localhost/kenkarlo/assets/images/article/why-you-should-not-use-hitbtc-exchange-scam-alert-cautious-warning.jpg" alt="Why You Should Not Use HITBTC Exchange - Kenkarlo.com">
+                  </a>
+                </div>
+                <div class="col-md-9 col-9 col-sm-9">
+                  <div class="margin-top-10 margin-bottom-10">
+                    <h3 style="font-size: 12.5px; font-family: Poppins; margin-top: 5px; cursor: pointer;" onclick="window.location='http://localhost/kenkarlo/articles/why-you-should-not-use-hitbtc-exchange'" class="font-black font-500">Why You Should Not Use HITBTC Exchange</h3>
+                    <div class="row" style="margin-top: -5px;">
+                      <div class="col" style="font-size: 11px; color: #636363;"><span>Mar 23</span> • <span style="padding-right: 25px; font-size: 10.5px;" class="font-400">6 min read</span>
+                      </div>
+                      
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>  
+                    <div class="margin-bottom-10">
+              <div class="row">
+                <div class="col-md-3 col-3 col-sm-3" style="margin-top: 10px;">
+                  <a class="image-hover-ord-article img-zoom-in" href="http://localhost/kenkarlo/articles/send-from-gcash-to-paymaya">
+                    <img class="img-fluid mx-auto d-block" src="http://localhost/kenkarlo/assets/images/article/how-to-send-gcash-to-paymaya.jpg" alt="How to send Gcash to Paymaya Account - Kenkarlo.com">
+                  </a>
+                </div>
+                <div class="col-md-9 col-9 col-sm-9">
+                  <div class="margin-top-10 margin-bottom-10">
+                    <h3 style="font-size: 12.5px; font-family: Poppins; margin-top: 5px; cursor: pointer;" onclick="window.location='http://localhost/kenkarlo/articles/send-from-gcash-to-paymaya'" class="font-black font-500">How to send Gcash to Paymaya Account</h3>
+                    <div class="row" style="margin-top: -5px;">
+                      <div class="col" style="font-size: 11px; color: #636363;"><span>May 02</span> • <span style="padding-right: 25px; font-size: 10.5px;" class="font-400">2 min read</span>
+                      </div>
+                      
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>  
+                    <div class="margin-bottom-10">
+              <div class="row">
+                <div class="col-md-3 col-3 col-sm-3" style="margin-top: 10px;">
+                  <a class="image-hover-ord-article img-zoom-in" href="http://localhost/kenkarlo/articles/iot-the-future-of-taxi-transportation">
+                    <img class="img-fluid mx-auto d-block" src="http://localhost/kenkarlo/assets/images/article/iot-the-future-of-taxi-transportation-uber.jpg" alt="How IoT will Impact the Future of On-Demand Domestic Taxi Transportation? - Kenkarlo.com">
+                  </a>
+                </div>
+                <div class="col-md-9 col-9 col-sm-9">
+                  <div class="margin-top-10 margin-bottom-10">
+                    <h3 style="font-size: 12.5px; font-family: Poppins; margin-top: 5px; cursor: pointer;" onclick="window.location='http://localhost/kenkarlo/articles/iot-the-future-of-taxi-transportation'" class="font-black font-500">How IoT will Impact the Future of On-Demand Domestic Taxi Transportation?</h3>
+                    <div class="row" style="margin-top: -5px;">
+                      <div class="col" style="font-size: 11px; color: #636363;"><span>Apr 30</span> • <span style="padding-right: 25px; font-size: 10.5px;" class="font-400">3 min read</span>
+                      </div>
+                      
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>  
+        
+
+                  <div class="margin-top-30 margin-bottom-30">
+                              <div class="sponsored-style">
+                <img draggable="false" style="width: 20px; " src="http://localhost/kenkarlo/assets/images/campaign/fiverr-logo.png" alt="Fiverr" />&nbsp;<span class="font-600">Fiverr</span> - Top quality, hand-picked professionals, trusted by the world’s biggest brands. <a title="Links to External Site" class="font-500" target="_blank" rel="noopener" href="http://localhost/kenkarlo/sponsored/fiverr">Visit Fiverr</a>. <sup title="Sponsored Ad" class="ad-style">Ad </sup>
+              </div>
+                      </div>
+        
+        <div class="margin-bottom-20 margin-top-20 text-center">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <ins class="adsbygoogle"
+                    style="display:block"
+                    data-ad-client="ca-pub-9264139322313019"
+                    data-ad-slot="7570258685"
+                    data-ad-format="auto">
+                </ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+            <small>Advertisements</small>
+      </div>
+
+        <div id="web-view" class="margin-top-40 margin-bottom-10"> <!-- Trend -->
+                <h4 class="text-uppercase font-black font-500 title-bold"><span>Recent Stories</span></h4>
+                                      <div class="margin-top-10">
+                    <div class="row">
+                      <div class="col-md-4 col-4 col-sm-4" style="margin-top: 10px; margin-left: -15px;">
+                        <a class="image--crop-wrapper" href="http://localhost/kenkarlo/articles/how-ai-will-revolutionalize-digital-marketing">
+                          <img class="img-fluid mx-auto d-block image--crop" src="http://localhost/kenkarlo/assets/images/article/how-ai-will-change-digital-marketing-for-2019-and-upcoming-years.jpg" alt="How AI Will Revolutionalize Digital Marketing - Kenkarlo.com">
+                        </a>
+                      </div>
+                      <div class="col-md-8 col-8 col-sm-8">
+                        <div class="margin-top-10 margin-bottom-10" style="margin-left: -15px;">
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/articles/how-ai-will-revolutionalize-digital-marketing'" class="font-black main-side--banner-title">How AI Will Revolutionalize Digital Marketing</h3>
+                          <div class="row" style="margin-top: -5px;">
+                            <div class="col font-300 side-banner-author-date"><i class="fa fa-clock"></i> <span>Oct 12</span> • <span style="padding-right: 25px;">1 min read</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>   
+                                    <div class="margin-top-10">
+                    <div class="row">
+                      <div class="col-md-4 col-4 col-sm-4" style="margin-top: 10px; margin-left: -15px;">
+                        <a class="image--crop-wrapper" href="http://localhost/kenkarlo/articles/localbitcoins-alternatives">
+                          <img class="img-fluid mx-auto d-block image--crop" src="http://localhost/kenkarlo/assets/images/article/blockchain-3750157_1280.jpg" alt="Localbitcoins Alternatives - Kenkarlo.com">
+                        </a>
+                      </div>
+                      <div class="col-md-8 col-8 col-sm-8">
+                        <div class="margin-top-10 margin-bottom-10" style="margin-left: -15px;">
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/articles/localbitcoins-alternatives'" class="font-black main-side--banner-title">Localbitcoins Alternatives</h3>
+                          <div class="row" style="margin-top: -5px;">
+                            <div class="col font-300 side-banner-author-date"><i class="fa fa-clock"></i> <span>Oct 05</span> • <span style="padding-right: 25px;">1 min read</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>   
+                                    <div class="margin-top-10">
+                    <div class="row">
+                      <div class="col-md-4 col-4 col-sm-4" style="margin-top: 10px; margin-left: -15px;">
+                        <a class="image--crop-wrapper" href="http://localhost/kenkarlo/articles/learning-seo-or-search-engine-optimization">
+                          <img class="img-fluid mx-auto d-block image--crop" src="http://localhost/kenkarlo/assets/images/article/learn-seo-at-home-beginners-guide.jpg" alt="How to Learn SEO at Home — Beginner's guides - Kenkarlo.com">
+                        </a>
+                      </div>
+                      <div class="col-md-8 col-8 col-sm-8">
+                        <div class="margin-top-10 margin-bottom-10" style="margin-left: -15px;">
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/articles/learning-seo-or-search-engine-optimization'" class="font-black main-side--banner-title">How to Learn SEO at Home — Beginner's guides</h3>
+                          <div class="row" style="margin-top: -5px;">
+                            <div class="col font-300 side-banner-author-date"><i class="fa fa-clock"></i> <span>Jul 31</span> • <span style="padding-right: 25px;">3 min read</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>   
+                                    <div class="margin-top-10">
+                    <div class="row">
+                      <div class="col-md-4 col-4 col-sm-4" style="margin-top: 10px; margin-left: -15px;">
+                        <a class="image--crop-wrapper" href="http://localhost/kenkarlo/articles/79515720-the-mpcx-platform-presents-the-digital-wealth-management-platform">
+                          <img class="img-fluid mx-auto d-block image--crop" src="http://localhost/kenkarlo/assets/images/article/mcpx.png" alt="The MPCX Platform presents the digital wealth management platform - Kenkarlo.com">
+                        </a>
+                      </div>
+                      <div class="col-md-8 col-8 col-sm-8">
+                        <div class="margin-top-10 margin-bottom-10" style="margin-left: -15px;">
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/articles/79515720-the-mpcx-platform-presents-the-digital-wealth-management-platform'" class="font-black main-side--banner-title">The MPCX Platform presents the digital wealth management ...</h3>
+                          <div class="row" style="margin-top: -5px;">
+                            <div class="col font-300 side-banner-author-date"><i class="fa fa-clock"></i> <span>Jun 23</span> • <span style="padding-right: 25px;">1 min read</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>   
+                                    <div class="margin-top-10">
+                    <div class="row">
+                      <div class="col-md-4 col-4 col-sm-4" style="margin-top: 10px; margin-left: -15px;">
+                        <a class="image--crop-wrapper" href="http://localhost/kenkarlo/articles/xcrypt-future-proof-crypto-exchange-taking-ieo-21">
+                          <img class="img-fluid mx-auto d-block image--crop" src="http://localhost/kenkarlo/assets/images/article/Aerum.jpg" alt="The First IEO Pre-Sales for EST at IDAX International Exchange - Kenkarlo.com">
+                        </a>
+                      </div>
+                      <div class="col-md-8 col-8 col-sm-8">
+                        <div class="margin-top-10 margin-bottom-10" style="margin-left: -15px;">
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/articles/xcrypt-future-proof-crypto-exchange-taking-ieo-21'" class="font-black main-side--banner-title">The First IEO Pre-Sales for EST at IDAX International Exc...</h3>
+                          <div class="row" style="margin-top: -5px;">
+                            <div class="col font-300 side-banner-author-date"><i class="fa fa-clock"></i> <span>Jun 15</span> • <span style="padding-right: 25px;">0 min read</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>   
+                              </div>
+
+
+              <div class="margin-bottom-10 margin-top-20 text-center">
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <ins class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="ca-pub-9264139322313019"
+                            data-ad-slot="7570258685"
+                            data-ad-format="auto">
+                        </ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    <small>Advertisements</small>
+              </div>
+
+              <div class="margin-top-40 margin-bottom-10"> <!-- recent stories -->
+                <h4 class="text-uppercase font-black font-500 title-bold"><span>Categories</span></h4>
+                  <div class="">
+                      <div class="row">
+                        <div class="col-md-12">
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/category/digital-marketing'" class="font-black main-side--banner-title">
+                            Digital Marketing
+                          </h3>
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/category/technology'" class="font-black main-side--banner-title">
+                            Technology
+                          </h3>
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/category/how-to'" class="font-black main-side--banner-title">
+                            How to
+                          </h3>
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/category/social-media'" class="font-black main-side--banner-title">
+                            Social Media
+                          </h3>
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/category/blockchain'" class="font-black main-side--banner-title">
+                            Blockchain
+                          </h3>
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/category/press-release'" class="font-black main-side--banner-title">
+                            Press Release
+                          </h3>
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/category/tech-news'" class="font-black main-side--banner-title">
+                            Tech News
+                          </h3>
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/category/blockchain'" class="font-black main-side--banner-title">
+                            Business
+                          </h3>
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/category/startup'" class="font-black main-side--banner-title">
+                            Startup
+                          </h3>
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/category/review'" class="font-black main-side--banner-title">
+                            Reviews
+                          </h3>
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/category/gadgets'" class="font-black main-side--banner-title">
+                            Gadgets
+                          </h3>
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/category/security'" class="font-black main-side--banner-title">
+                            Security
+                          </h3>
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/category/finance'" class="font-black main-side--banner-title">
+                            Finance
+                          </h3>
+                          <h3 style="" onclick="window.location='http://localhost/kenkarlo/category/seo'" class="font-black main-side--banner-title">
+                            SEO
+                          </h3>
+                        </div>    
+                      </div>
+                  </div>   
+              </div>
+      </div>
+    </div>
+  </div>
+
+<div id="cookieConsent">
+  <div id="closeCookieConsent"> x </div>
+      By using this website, you agree to our <a target="_blank" rel="noopener" href="https://kenkarlo.com/articles/terms-and-conditions">Terms and Conditions</a> and <a target="_blank" rel="noopener" href="https://kenkarlo.com/articles/terms-and-conditions#privacy-policy">Privacy Policy</a>.
+      <!-- <a class="cookieConsentOK">That's Fine</a> -->
+</div>
+<script>
+  $(document).ready(function(){  
+    if (typeof $.cookie('warning-terms-and-conditions') === 'undefined') { //cookie warning-terms-conditions
+      setTimeout(function () {
+          $("#cookieConsent").fadeIn(200);
+      }, 3000);
+      $("#closeCookieConsent, .cookieConsentOK").click(function() {
+          $.cookie('warning-terms-and-conditions', 'true', { expires: 1, path: '/' });
+          $("#cookieConsent").fadeOut(200);
+      }); 
+    }
+    else {
+      $('#cookieConsent').hide();
+    }
+
+
+    if (typeof $.cookie('__ciKen') === 'undefined') {  //cookie __ciKen
+      $.cookie('__ciKen', 'd56c5aec7ba5ef938aa9f99b823', { expires: 365, path: '/' });   
+    }
+    else {
+    }
+  });
+</script>
+<script src="http://localhost/kenkarlo//assets/js/jquery-3.2.1.min.js"></script>
+<script src="http://localhost/kenkarlo//assets/styles/bootstrap4/popper.js"></script>
+<script src="http://localhost/kenkarlo//assets/styles/bootstrap4/bootstrap.min.js"></script>
+<script src="http://localhost/kenkarlo//assets/plugins/greensock/TweenMax.min.js"></script>
+<script src="http://localhost/kenkarlo//assets/plugins/greensock/TimelineMax.min.js"></script>
+<script src="http://localhost/kenkarlo//assets/plugins/scrollmagic/ScrollMagic.min.js"></script>
+<script src="http://localhost/kenkarlo//assets/plugins/greensock/animation.gsap.min.js"></script>
+<script src="http://localhost/kenkarlo//assets/plugins/greensock/ScrollToPlugin.min.js"></script>
+<script src="http://localhost/kenkarlo//assets/plugins/easing/easing.js"></script>
+<script src="http://localhost/kenkarlo//assets/js/contact.js"></script>
+<script src="http://localhost/kenkarlo/assets/js/jquery.cookie.js"></script>
+<script>
+  $(document).ready(function() {
+    $('#subscribe').on('click', function() {
+      var email_address = $('#email_address').val();
+
+      if (!email_address) {
+        const toast = swal.mixin({
+          toast: true,
+          position: 'top-end',
+          showConfirmButton: false,
+          timer: 9000
+        });
+        toast({
+          type: 'error',
+          title: 'Please Enter Email Address!'
+        });
+        return false;
+      }
+
+      $.ajax({
+        type: 'POST',
+        url: 'http://localhost/kenkarlo/auth-process/newsletter',
+        dataType: 'JSON',
+        data: {
+          email_address:email_address
+        },
+
+        success: function(data) {
+          if (data.status == 'success') {
+            const toast = swal.mixin({
+              toast: true,
+              position: 'top-end',
+              showConfirmButton: false,
+              timer: 9000
+            });
+            toast({
+              type: 'success',
+              title: 'Thanks for subscribing!'
+            });
+            $('#email_address').val(' ');
+          }
+
+          else if (data.status == 'false') {
+            const toast = swal.mixin({
+              toast: true,
+              position: 'top-end',
+              showConfirmButton: false,
+              timer: 9000
+            });
+            toast({
+              type: 'error',
+              title: 'Something is not right. Please try again!'
+            });
+          }
+
+          else if (data.status == 'emailExist') {
+            const toast = swal.mixin({
+              toast: true,
+              position: 'top-end',
+              showConfirmButton: false,
+              timer: 9000
+            });
+            toast({
+              type: 'warning',
+              title: 'This email is already on our record!'
+            });
+          }
+
+          else if (data.status == 'emailNotValid') {
+            const toast = swal.mixin({
+              toast: true,
+              position: 'top-end',
+              showConfirmButton: false,
+              timer: 9000
+            });
+            toast({
+              type: 'error',
+              title: 'Make sure your email is valid!'
+            });
+          }
+        }
+
+      });
+      return false;
+    });
+  });
+</script>
+<!-- <div id="kenkarlo-banner" class="">
+	<div id="close-kenkarlo-banner" title="Close"> <span class="banner-close-toggle"><amp-img width="8" height="8" src="https://kenkarlo.com/assets/images/close.png"></amp-img></span> </div>
+	<div class="col-md-12 kenad-body text-center">
+	    <img width="30px" src="http://localhost/kenkarlo/assets/images/ledger-logo.png"> <span style="color: #fff;"><b class="font-500">Ledger Nano X</b> - Keep your crypto secure, everywhere. </span> <a style="color: #fff; border-radius: 10px; border: 1px solid #41ccb4; background: transparent;" class="btn btn-success btn-md" target="_blank" rel="noopener" href="https://bit.ly/nano-x-ledger">Learn More</a>
+	</div>
+</div> -->
+
+<script>
+	$(document).ready(function(){  
+		if (typeof $.cookie('warning-terms-and-conditions') === 'undefined') { //cookie warning-terms-conditions
+			setTimeout(function () {
+			    $("#cookieConsent").fadeIn(200);
+			}, 3000);
+			$("#closeCookieConsent, .cookieConsentOK").click(function() {
+			    $.cookie('warning-terms-and-conditions', 'true', { expires: 30, path: '/' });
+			   	$("#cookieConsent").fadeOut(200);
+				setTimeout(function () {
+					$("#kenkarlo-banner").fadeIn(300);
+				}, 3000);
+
+			}); 
+		}
+		else {
+			$('#cookieConsent').hide();
+			setTimeout(function () {
+				$("#kenkarlo-banner").fadeIn(300);
+			}, 3000);
+		}
+
+		if (typeof $.cookie('__ciKen') === 'undefined') {  //cookie __ciKen
+			$.cookie('__ciKen', '7f5b7461fa34cac5e5b03daee26', { expires: 365, path: '/' });   
+		}
+		else {
+		}
+
+	});
+</script>
+
+
+<script>
+	$(document).ready(function(){  
+		$('#close-kenkarlo-banner').click( function() {
+			$('#kenkarlo-banner').hide();
+			$("#kenkarlo-banner").fadeOut(300);
+		});
+	});
+</script>
+
+<div id="mobile-view">
+    <!-- class="sticky-footer-banner" -->
+	<div hidden="hidden">
+		<span class="close--sticky-banner-wrapper">
+			<a href="#close" id="close-sticky-banner" class="close--sticky-banner"><i class="fa fa-times-circle-o"></i></a>
+		</span>
+	
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<ins class="adsbygoogle"
+				style="display:block;width:100%;"
+				data-ad-client="ca-pub-9264139322313019"
+				data-ad-slot="7570258685">
+			</ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+</div>
+<script charset="UTF-8" src="//cdn.sendpulse.com/js/push/985643e1c1f811cee3282d6ec2c2c293_1.js" async></script>
+<!-- footer -->
+	<div class="footer-alt">
+		<div class="footer_background" style="background-image:url(http://localhost/kenkarlo/assets/images/footer-bg.jpg);"></div>
+		<div class="container">
+			<div class="row footer-alt-row">
+				<div class="col-6 col-sm-6 col-md-3 text-footer-4 margin-bottom-20" style="z-index: 2;">
+					<div class="logo-footer"><a href="http://localhost/kenkarlo/"><amp-img width="140" height="37" src="http://localhost/kenkarlo/assets/images/kenkarlodotcom-logo-footer.png" alt="Logo"></amp-img></a>
+
+					</div>
+					<a href="#">A global media blog focusing on latest technology, blockchain, gadgets, digital marketing, games, business, social media and security.</a><br><br>
+
+					<div id="ssl-wrapper">
+						<script type="text/javascript"> //<![CDATA[
+						  var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.trust-provider.com/" : "http://www.trustlogo.com/");
+						  document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));//]]>
+						</script>
+						<script language="JavaScript" type="text/javascript">
+						  TrustLogo("https://sectigo.com/images/seals/sectigo_trust_seal_sm_2x.png", "SECDV", "none");
+						</script>
+					</div>
+					
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-3 text-footer-1 margin-bottom-20">
+					<a href="#"><b class="fw-600">Quick Links</b></a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/shop">Shop</a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/blog">Blog</a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/about">About</a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/contact">Contact</a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/guest-post">Submit Guest Post</a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/donate">Tip us a coffee</a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/bc-login/account">Account</a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/view/sitemap">Sitemap</a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/feed">RSS</a><br>
+				</div>
+				
+
+				<div class="col-6 col-sm-6 col-md-3 text-footer-2 margin-bottom-20">
+					<a href="#"><b class="fw-600">Categories</b></a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/category/technology">Technology</a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/category/blockchain">Blockchain</a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/category/digital-marketing">Digital Marketing</a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/category/social-media">Social Media</a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/category/security">Security</a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/category/business">Business</a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/category/review">Reviews</a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/category/how-to">How to</a><br>
+					<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/category/gadgets">Gadgets</a><br>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-3 text-footer-3 margin-bottom-20">
+					<ul class="social">
+						<li><a href="#"><b class="fw-600">Social</b></a></li>
+						<li><a target="_blank" rel="noopener" href="https://facebook.com/kensdigest"><i class="fa fa-facebook-square"></i> Facebook</a></li>
+						<!-- <li><a target="_blank" rel="noopener" href="https://facebook.com/GameWalletDigitalShop">Facebook Shop</a></li> -->
+						<li><a target="_blank" rel="noopener" href="https://twitter.com/kensdigest"><i class="fa fa-twitter"></i> Twitter</a></li>
+						<li><a target="_blank" rel="noopener" href="https://pinterest.com/kensdigest"><i class="fa fa-pinterest"></i> Pinterest</a></li>
+					</ul>
+				</div>
+
+				
+			</div>
+		</div>
+	</div>
+	<div class="footer-below" style="">
+		<div class="container pad-10">
+			<div class="terms--wrapper">
+				
+			</div>
+			<div class="site--reserved">
+				<a target="_blank" rel="noopener" href="http://localhost/kenkarlo/articles/terms-and-conditions">Terms</a> and <a target="_blank" rel="noopener" href="http://localhost/kenkarlo/articles/terms-and-conditions#privacy_policy">Privacy  | &copy; 2018 - 2019 <a href="http://localhost/kenkarlo/" target="_blank" rel="noopener">Kenkarlo.com</a>. All rights reserved.
+			</div>
+			
+		</div>
+	</div>
+	<script>
+		setTimeout(function(){$(".sticky-footer-banner").removeAttr("hidden").fadeIn(1000)},3000)
+	    $("#close-sticky-banner").on('click', function(){
+	        $('.sticky-footer-banner').fadeOut(1000);
+	    })
+		$('.sp-form-fields-wrapper').css('font-family','Poppins');
+		$("meta #theme-color").attr('content','#0165d0');
+		var base_url = 'http://localhost/kenkarlo/';
+		var web_page = 'public_access';
+	</script>
+    <script charset="UTF-8" src="http://localhost/kenkarlo/assets/js/article.js" async></script>
+    <script charset="UTF-8" src="http://localhost/kenkarlo/assets/js/impressions.js" async></script>

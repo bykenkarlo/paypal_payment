@@ -1,0 +1,190 @@
+
+@media only screen and (min-width: 321px) {
+    .modal-dialog {
+        margin: 60px auto;
+        width: 315px;
+        font-family: Poppins, sans-serif;
+    }
+}
+
+@media only screen and (min-width: 375px) {
+    .modal-dialog {
+        margin: 60px auto;
+        width: 370px;
+        font-family: Poppins, sans-serif;
+    }
+}
+@media only screen and (min-width: 569px) {
+    .modal-dialog {
+        margin: 60px auto;
+        width: 530px;
+        font-family: Poppins, sans-serif;
+    }
+}
+.modal-content {
+    box-shadow: 0 2px 42px 0 rgba(0,0,0,.25);
+    background:#f5f5f7;
+    z-index: 999999;
+    border-radius: 0;
+}
+.top-header {
+    color: #fff;
+    background-color:#fff;
+    font-weight: 500;
+    letter-spacing: .5px;
+}
+.top-header .timer-row {
+    background: #007bff;
+    display: flex;
+    align-items: center;
+    padding: 3px 14px;
+    position: relative;
+    transition: background 1s ease;
+}
+.payment-tabs__slider {
+    position: absolute;
+    height: 5px;
+    width: 50%;
+    background: #007bff;
+    top: 0;
+    right: 50%;
+    transition: all .2s ease;
+}
+.payment__currencies_noborder {
+    font-size: 13px;
+    font-weight: 400;
+}
+.single-item-order__right__btc-price {
+    font-size: 15px;
+    font-weight: 400;
+    color: #007bff;
+}
+.single-item-order__left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 15px;
+}
+.single-item-order__right__ex-rate {
+    font-style: italic;
+    font-size: 13px;
+    font-weight: 400;
+}
+.line-items .line-items__item {
+    display: flex;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 2px 0;
+    color: #007bff;
+}
+.payment-tabs__tab {
+    text-align: center;
+    flex: 1;
+    padding: 12px;
+    outline: none;
+    letter-spacing: .8px;
+    cursor: pointer;
+    font-weight: 400;
+}
+.content-faded, .manual__step-one__instructions, .manual__step-two__instructions {
+    text-align: center;
+    font-size: 13px;
+    padding: 20px 20px;
+    color: #515664;
+    font-weight: 400;
+    opacity: .7;
+}
+.copyAmountText {
+    color:#4a4a4a;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-top: -10px;
+    position: relative;
+}
+.checkoutTextbox {
+    width: 100%;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    outline: none;
+    padding: 8px 4px 8px;
+    padding-left: 4px;
+    background:#f6f6f6;
+    box-sizing: border-box;
+    transition: .3s;
+    font-size: 14px;
+    color: #4a4a4a;
+    cursor: copy;
+    text-overflow: ellipsis;
+}
+.recommended-fee {
+    box-sizing: border-box;
+    color:#818ea9;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    top: calc(100% - 40px);
+    left: 50%;
+    padding: 0 16px;
+    text-align: center;
+    transform: translateX(-50%);
+    width: 100%;
+}
+.action-button {
+    color: #fff;
+    background-color:#007bff;
+    border-color:#007bff;
+    padding: 15px;
+    word-break: normal;
+    font-size: 14px;
+    min-width: 185px;
+    font-weight: 400;
+    letter-spacing: .7px;
+    box-shadow: 0 7px 13px 0 rgba(0,0,0,.19);
+    width: 100%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.action-button:hover {
+    background-color: #0472e7;
+    border-color:rgba(28,100,222,0);
+    opacity: .95;
+}
+.action-button:active:hover, .action-button:active:focus, .action-button:active.focus, .action-button.active:hover, .action-button.active:focus, .action-button.active.focus, .open > .action-button.dropdown-toggle:hover, .open > .action-button.dropdown-toggle:focus, .open > .action-button.dropdown-toggle.focus {
+    color: #fff;
+    background-color:#0472e7;
+    border-color:#0472e7;
+}
+.action-button:active, .action-button.active, .open > .action-button.dropdown-toggle {
+    color: #fff;
+    background-color:#0472e7;
+    border-color: #0472e7;
+    background-image: none;
+}
+.separatorGem {
+    position: relative;
+    height: 10px;
+    width: 10px;
+    left: 50%;
+    border-right: 1px solid #e0e0e0;
+    border-bottom: 1px solid#e0e0e0;
+    transform: rotateZ(45deg);
+    margin-left: -5px;
+    top: -5px;
+    background:#007bff;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    margin-bottom: -10px;
+}
+.expired__text {
+    margin-top: 20px;
+    font-weight: 300;
+    font-size: 14px;
+    opacity: .8;
+}
+.expired__text {
+    margin-top: 20px;
+    font-weight: 300;
+    font-size: 14px;
+    opacity: .8;
+}
