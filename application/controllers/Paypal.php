@@ -10,8 +10,24 @@ class Paypal extends CI_Controller {
         $this->load->model('paypal_model');
         require_once(APPPATH.'libraries/Paypal_config.php');
         require_once(APPPATH.'libraries/PaypalHelper.php');
+        if (strpos(base_url(), 'localhost') !== false) {
+            DEFINE('PAYPAL_ENV', 'https://www.paypal.com/sdk/js?client-id=sb&commit=false&currency=PHP'); ; /* sandbox */
+        }
+        else{
+            DEFINE('PAYPAL_ENV', 'https://www.paypal.com/sdk/js?client-id=YOUR_CLIENT_ID&commit=false&currency=PHP'); ; /* sandbox */
+        }
     }
+    public function index(){
+        header('location: '.base_url('paypal/order/PP123456789'));
+    }
+    public function orderPayment($ref_no){
+        
 
+        $data['ref_no'] = $ref_no;
+        $data['orderData'] = $this->paypal_model->getOrderReferenceNumber($ref_no); /* SAMPLE REF NO */
+        $this->session->set_userdata('total_amount', $data['orderData']['amount']); /* SET SESSION FOR TOTAL AMOUNT FOR VERIFICATION LATER */
+        $this->load->view('order_payment', $data);
+    }
     public function callback(){
         $ref_no = $this->input->post('ref_no'); /* order reference number */
         $orderID = $this->input->post('orderID'); /* PAYPAL Order ID */
@@ -64,7 +80,7 @@ class Paypal extends CI_Controller {
         $order_ref_no = $this->input->post('ref_no');
         $orderData = $this->paypal_model->getOrderReferenceNumber($order_ref_no); /* GET ORDER DATA BY REFERENCE NO*/
 
-        $productStock = $this->order_model->checkProductQty($orderData['pid']);
+        $productStock = 'inStock'; /* CHECK DATABASE IF IN OR OUT OF STOCK */
 
         $subtotal = $orderData['amount'] - $orderData['charge'];
         $sub_total = number_format($subtotal, 2, '.', '');
@@ -78,6 +94,7 @@ class Paypal extends CI_Controller {
 
             $this->output->set_content_type('application/json')->set_output(json_encode($data));
         }
+        
         // CHECK SESSION AMOUNT OR DECLARED AMOUNT IS THE SAME ON YOUR DATABASE
         else if ($orderData['amount'] !== $this->session->total_amount) {
             $data['status'] = 'failed';
@@ -86,7 +103,7 @@ class Paypal extends CI_Controller {
             $this->output->set_content_type('application/json')->set_output(json_encode($data));
         }
         
-        else if($orderData['payment_method'] == 'Paypal'){
+        else if($orderData['payment_method'] == 'paypal'){
             $paypalHelper = new PayPalHelper;
             $orderData = '{
                 "intent" : "CAPTURE",
@@ -157,6 +174,7 @@ class Paypal extends CI_Controller {
 
             $this->output->set_content_type('application/json')->set_output(json_encode($paypalHelper->orderCreate($orderData)));
         }
+
     }
     public function orderCapture(){
         $paypalHelper = new PayPalHelper;
